@@ -1,1 +1,1 @@
-> pre-release是带magisk的boot
+> Pre-release是magisk修补过的boot
