@@ -1,0 +1,1 @@
+import{_,c as e,o as t,a1 as o}from"./chunks/framework.B00KZdpF.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"任何理论都要不断接受实践的检验.md","filePath":"任何理论都要不断接受实践的检验.md"}'),p={name:"任何理论都要不断接受实践的检验.md"},a=o("",5),c=[a];function s(r,n,m,d,i,l){return t(),e("div",null,c)}const h=_(p,[["render",s]]);export{f as __pageData,h as default};
